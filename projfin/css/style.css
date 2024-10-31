@@ -1,12 +1,58 @@
+@font-face { font-family: Quake III Arena not included; src: url('../font/Quake III Arena not included.ttf'); }
+@font-face { font-family: Venite Adoremus; src: url('../font/VeniteAdoremus-rgRBA.ttf'); }
+@font-face { font-family: Venite Adoremus Straight; src: url('../font/VeniteAdoremusStraight-Yzo6v.ttf'); }
+
+[data-bs-theme=dark] .dropdown-menu {
+    --bs-dropdown-bg: rgb(0,0,0,0.75);
+    --bs-dropdown-link-active-bg: #{$blue-700};
+  }
+
+
+
+#over body{
+	color: #ffffff;
+	font-family: Venite Adoremus;	
+}
+
+#over h1{
+	color: #ffffff;
+	font-family: Venite Adoremus;
+}
+
+#over h3{
+	color: #ffffff;
+	font-family: Venite Adoremus;
+}
+
+#over nav{
+    height:100%;
+    width:100%;
+    background-color:rgb(0, 0, 0, 0.65);
+}
+
+.navbar{
+	background-image: url('../images/missing.png');
+	background-attachment: fixed;
+	background-size: cover;
+	color: #ffffff;
+	font-family: Venite Adoremus;
+}
+
+.dropdown-item{
+	background-color: rgb(0,0,0,0.5);
+	
+}
+
 body{
 	background-image: url('../images/missing.png');
 	background-attachment: fixed;
 	background-size: cover;
 	color: #ffffff;
+	font-family: Venite Adoremus;
 }
 
 h1{
-	color: red;
+	color: #ffffff;
 }
 
 a{
