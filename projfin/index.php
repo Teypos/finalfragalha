@@ -11,14 +11,14 @@
 	
 	<div class="fore">
 	<h1>Frãgalhã</h1>
-	<a class="anch" href="gamehub.php" target="_blank">Gamehub?</a>
+	<a href="gamehub.php" target="_blank">Gamehub?</a>
 	</div>
 	<br>
 	<div class="fore">
 	<h3>ESTE SITE É BUÉ GAMING MALTA (+)</h3> <img src="https://cdn.britannica.com/86/2286-050-C9E3A660/Flag-Malta.jpg" style="height:20%; width:20%;">
 	<br>
 	WOSWOSWOSWOSWOSWOSWOSWOSWOSWOSWOS
-	<img src="images/gamer.png" alt=":) you can't see me"class="center">
+	<a href="https://fragalha.atwebpages.com" target="_blank"><img src="images/gamer.png" alt=":) you can't see me"class="center">
 	</div>
 </body>
 </html>   
